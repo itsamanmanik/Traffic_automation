@@ -83,13 +83,3 @@ If you used this project in your research, please cite:
   year={2023}
 }
 ```
-## Windows Installation
-
-For detailed Windows setup instructions, see:
-
-- [`docs/windows_installation.md`](docs/windows_installation.md)
-
-After installation, you can verify the setup with:
-
-```bash
-python scripts/check_install.py
